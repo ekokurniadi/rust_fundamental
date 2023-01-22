@@ -1,7 +1,6 @@
 fn main() {
     let mut b = 20; // mutable
     
-
     const HIGHEST_PRICE:u32 = 10000000; // u can write it with readable ex : 10_000_000
 
     let x = 10;
