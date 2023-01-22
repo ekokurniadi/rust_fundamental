@@ -40,7 +40,7 @@ fn main() {
 
 
     let firts_word2 = returned_first_word2(&sample2);
-   
+
     println!("{}",firts_word2)
 
 }
